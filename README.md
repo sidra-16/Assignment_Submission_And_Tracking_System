@@ -8,15 +8,15 @@ The backend is designed using the **document model**, which allows for flexible 
 
 |                Analytics Dashboard                |                 Aggregation Pipelines                |
 | :-----------------------------------------------: | :--------------------------------------------------: |
-| <img src="Screenshots/dashboard.png" width="400"> | <img src="Screenshots/aggregations.png" width="400"> |
+| <img src="screenshots/dashboard.png" width="400"> | <img src="screenshots/aggregations.png" width="400"> |
 
 |              Multi-Document Transactions             |              Concurrency & Locking              |
 | :--------------------------------------------------: | :---------------------------------------------: |
-| <img src="Screenshots/transactions.png" width="400"> | <img src="Screenshots/locking.png" width="400"> |
+| <img src="screenshots/transactions.png" width="400"> | <img src="screenshots/locking.png" width="400"> |
 
 |                 Database Views                |           Query Indexing & Optimization          |
 | :-------------------------------------------: | :----------------------------------------------: |
-| <img src="Screenshots/views.png" width="400"> | <img src="Screenshots/indexing.png" width="400"> |
+| <img src="screenshots/views.png" width="400"> | <img src="screenshots/indexing.png" width="400"> |
 
 ### Advanced Database Features
 
